@@ -68,7 +68,7 @@ user_pref("media.navigator.enabled", false);
 user_pref("media.video_stats.enabled", false);
 user_pref("network.allow-experiments", false);
 user_pref("network.captive-portal-service.enabled", false);
-user_pref("network.cookie.cookieBehavior", 2);
+user_pref("network.cookie.cookieBehavior", 1);
 user_pref("network.dns.disablePrefetch", true);
 user_pref("network.dns.disablePrefetchFromHTTPS", true);
 user_pref("network.http.sendRefererHeader", 0);
