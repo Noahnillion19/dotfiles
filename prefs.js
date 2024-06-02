@@ -59,7 +59,7 @@ user_pref("extensions.pocket.enabled", false);
 user_pref("extensions.shield-recipe-client.api_url", "");
 user_pref("extensions.shield-recipe-client.enabled", false);
 user_pref("extensions.webservice.discoverURL", "");
-user_pref("keyword.enabled", false);
+user_pref("keyword.enabled", true);
 user_pref("media.autoplay.default", 1);
 user_pref("media.autoplay.enabled", false);
 user_pref("media.eme.enabled", false);
